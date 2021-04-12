@@ -1,0 +1,14 @@
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\App.g.cs
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Maria\OneDrive\Documents\Online Stydying\2_Course_4_sem\Прикладное программирование\wpf\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
